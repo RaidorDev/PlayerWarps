@@ -1,0 +1,24 @@
+###########################
+#       PlayerWarps       #
+#                         #
+#    Created by Raidor    #
+###########################
+
+# The prefix used in all plugin messages.
+#
+# Set to '' for no prefix.
+chat-prefix: '&8[&aP&2W&8] '
+
+# The maximum length of characters allowed in a warp name.
+warp-name-max: 15
+
+# The maximum length of characters allowed in a warp message.
+warp-message-max: 150
+
+# The maximum length of characters allowed in a warp password.
+warp-password-max: 20
+
+# The default maximum amount of warps a player can set.
+#
+# This can be bypassed with the permission 'playerwarps.max.<number>'
+default-max-warps: 1
